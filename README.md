@@ -1,4 +1,4 @@
-# React Developer Roadmap (2024)
+# React Developer Roadmap (2024)--
 
 A thorough React developer roadmap for 2024 that addresses all aspects of React and beyond.
 
